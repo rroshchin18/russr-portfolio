@@ -33,3 +33,8 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
    ```bash
    pnpm install
    ```
+4. Test code
+
+   ```bash
+   test code
+   ```
