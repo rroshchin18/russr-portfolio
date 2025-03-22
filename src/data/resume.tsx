@@ -51,8 +51,9 @@ export const DATA = {
         name: "LinkedIn",
         url: "https://dub.sh/dillion-linkedin",
         icon: Icons.linkedin,
-
+        
         navbar: true,
+        newTab: true,
       },
       X: {
         name: "X",
@@ -187,7 +188,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
+      title: "Program Design Collection",
       href: "https://chatcollect.com",
       dates: "Jan 2024 - Feb 2024",
       active: true,
@@ -215,7 +216,7 @@ export const DATA = {
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
+      title: "Elevate Product",
       href: "https://magicui.design",
       dates: "June 2023 - Present",
       active: true,
@@ -247,7 +248,7 @@ export const DATA = {
       video: "https://cdn.magicui.design/bento-grid.mp4",
     },
     {
-      title: "llm.report",
+      title: "E-Learning Collection",
       href: "https://llm.report",
       dates: "April 2023 - September 2023",
       active: true,
@@ -280,7 +281,36 @@ export const DATA = {
       video: "https://cdn.llm.report/openai-demo.mp4",
     },
     {
-      title: "Automatic Chat",
+      title: "Product Mindset Podcast",
+      href: "https://automatic.chat",
+      dates: "April 2023 - March 2024",
+      active: true,
+      description:
+        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+        "Shadcn UI",
+        "Magic UI",
+        "Stripe",
+        "Cloudflare Workers",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://automatic.chat",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+    },
+    {
+      title: "Product Mindset Podcast",
       href: "https://automatic.chat",
       dates: "April 2023 - March 2024",
       active: true,
