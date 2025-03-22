@@ -46,6 +46,7 @@ export const DATA = {
         icon: Icons.github,
 
         navbar: true,
+        newTab: true,
       },
       LinkedIn: {
         name: "LinkedIn",
@@ -61,12 +62,14 @@ export const DATA = {
         icon: Icons.x,
 
         navbar: true,
+        newTab: true,
       },
       Youtube: {
         name: "Youtube",
         url: "https://dub.sh/dillion-youtube",
         icon: Icons.youtube,
         navbar: true,
+        newTab: true,
       },
       email: {
         name: "Send Email",
@@ -74,6 +77,7 @@ export const DATA = {
         icon: Icons.email,
 
         navbar: false,
+        newTab: false,
       },
     },
   },
