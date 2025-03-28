@@ -193,7 +193,7 @@ export const DATA = {
   projects: [
     {
       title: "Program Design Collection",
-      href: "https://chatcollect.com",
+      href: "https://leadership-curiosity-assessment.netlify.app/",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
