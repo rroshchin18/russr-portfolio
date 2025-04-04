@@ -8,7 +8,7 @@ export const DATA = {
   location: "Baltimore, MD",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Former teacher and coach turned instructional designer. I love all things learning and helping people realize and maximize their skills.",
+    "I create learning experiences that enable people to realize and maximize their skills.",
   summary:
     "At the end of 2021, I pivoted to the tech space by leveraging my teaching and technology skills as a technical trainer my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
   avatarUrl: "/me.png",
