@@ -146,8 +146,6 @@ export default function Page() {
                   image={project.image}
                   video={project.video}
                   links={project.links}
-                  target="_blank" // Open links in a new tab
-                  rel="noopener noreferrer" // Security best practice
                 />
               </BlurFade>
             ))}
