@@ -38,12 +38,12 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "russellr.dev@gmail.com",
+    tel: "+8505253407",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/rroshchin18",
         icon: Icons.github,
 
         navbar: true,
