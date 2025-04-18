@@ -8,7 +8,7 @@ export const DATA = {
   location: "Baltimore, MD",
   locationLink: "https://www.google.com/maps/place/baltimore",
   description:
-    "I turn learning into something people actually want to do, with experiences built to inspire action and real results.",
+    "I turn learning into something people actually want to do, with experiences built to help people realize and maximize their skills.",
   summary:
     "I’m a learning designer who believes great learning should be as engaging as it is effective. With over a decade of experience, I’ve transitioned from the classroom to crafting experiences that not only inform but transform. My approach is rooted in understanding people—what they need, how they learn, and what truly motivates them. By blending creativity with proven learning principles, I design solutions that resonate, inspire, and drive meaningful change.",
   avatarUrl: "/me.png",
